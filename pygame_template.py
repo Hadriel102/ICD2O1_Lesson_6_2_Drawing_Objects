@@ -33,7 +33,8 @@ while running:
     # All game math and comparisons happen here
 
     # ----- DRAWING -----
-    screen.fill((255, 255, 255))  # always the first drawing command
+    screen.fill((66, 135, 245))  # always the first drawing command
+    
 
     # Must be the last two lines of the game loop
     pygame.display.flip()

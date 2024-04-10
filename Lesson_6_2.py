@@ -20,7 +20,7 @@ clock = pygame.time.Clock()
 # ---------------------------
 # Initialize global variables
 font = pygame.font.SysFont('Arial', 25, True, False)
-text = font.render('Welcome to my gAme! ', True, (0, 0, 0))
+text = font.render('Welcome to my Game! ', True, (0, 0, 0))
 
 
 # ---------------------------
